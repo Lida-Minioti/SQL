@@ -1,0 +1,8 @@
+__pycache__/
+
+.idea/
+
+my_venv
+.env
+SECTION_6_POLL_APP/.env
+SECTION_5_PSYCOPG2/.env
